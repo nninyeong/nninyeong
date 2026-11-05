@@ -20,6 +20,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1.9.7
         with:
           feed_list: "https://nninyeong.tistory.com/rss"
+          accept_header: "*/*"
           max_post_count: 3
           template: "- [$title]($url) — $date"
           date_format: "yyyy.mm.dd"
