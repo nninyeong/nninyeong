@@ -12,6 +12,8 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Seoul
     steps:
       - name: Checkout
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
@@ -22,7 +24,8 @@ jobs:
           feed_list: "https://nninyeong.tistory.com/rss"
           accept_header: "*/*"
           max_post_count: 3
-          template: "- [$title]($url) — $date"
+          template: "- [$title]($url) — $date$newline"
           date_format: "yyyy.mm.dd"
+          tag_post_pre_newline: true
           enable_keepalive: false
           commit_message: "chore: update latest posts"
