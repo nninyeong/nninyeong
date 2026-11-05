@@ -41,8 +41,4 @@ React, Next.js, TypeScript를 중심으로 웹 제품을 개발하고 있습니�
 
 ### Latest
 
-<!-- BLOG-POST-LIST:START -->
-- [마이크로 프론트엔드 알아보기](https://nninyeong.tistory.com/184) — 2026.10.27
-- [access token은 어떻게 만들어질까? JWT_SECRET에서 시작한 질문](https://nninyeong.tistory.com/183) — 2026.10.21
-- [여러 탭의 데이터를 안전하게 다루기 - Web Locks와 storage 이벤트](https://nninyeong.tistory.com/182) — 2026.10.14
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [새 창을 열면 브라우저에는 어떤 관계가 만들어질까?](https://nninyeong.tistory.com/185) — 2026.11.05- [마이크로 프론트엔드 알아보기](https://nninyeong.tistory.com/184) — 2026.10.27- [access token은 어떻게 만들어질까?](https://nninyeong.tistory.com/183) — 2026.10.20<!-- BLOG-POST-LIST:END -->
