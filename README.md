@@ -1,6 +1,6 @@
 # Minyeong Kim
 
-사용자의 흐름을 세심하게 살피고, 안정적인 제품으로 완성하는 프론트엔드 개발자입니다.
+사용자 경험의 빈틈과 개발 구조의 문제를 함께 찾아, 서비스를 안정적으로 다듬고 꾸준히 개선해 나가는 프론트엔드 개발자입니다.
 
 [**Portfolio**](https://minyeong-portfolio.vercel.app/) · [Blog](https://nninyeong.tistory.com/)
 
