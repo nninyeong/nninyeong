@@ -28,7 +28,7 @@ React, Next.js, TypeScript를 중심으로 웹 제품을 개발하고 있습니�
 
 내일배움캠프 React 트랙 최우수 프로젝트로 선정됐습니다.
 
-[**포트폴리오에서 상세 보기**](https://minyeong-portfolio.vercel.app/#projects) · [GitHub](https://github.com/nninyeong/dream-card) · [Link](https://dream-card.co.kr/)
+[**포트폴리오에서 상세 보기**](https://minyeong-portfolio.vercel.app/#projects) · [GitHub](https://github.com/nninyeong/dream-card) · [Link](https://dreamcard-invite.vercel.app/)
 
 ## Posts
 
