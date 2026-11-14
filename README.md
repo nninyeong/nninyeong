@@ -42,8 +42,8 @@ React, Next.js, TypeScript를 중심으로 웹 제품을 개발하고 있습니�
 ### Latest
 
 <!-- BLOG-POST-LIST:START -->
+- [브라우저 창 사이의 메시지 통신: postMessage 이해하기](https://nninyeong.tistory.com/186) — 2026.11.14
 - [새 창을 열면 브라우저에는 어떤 관계가 만들어질까?](https://nninyeong.tistory.com/185) — 2026.11.06
 - [마이크로 프론트엔드 알아보기](https://nninyeong.tistory.com/184) — 2026.10.27
-- [access token은 어떻게 만들어질까?](https://nninyeong.tistory.com/183) — 2026.10.21
 
 <!-- BLOG-POST-LIST:END -->
